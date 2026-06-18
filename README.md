@@ -1,4 +1,3 @@
-# Smart Health Monitoring System
 # Smart Health Monitoring System using ESP32
 
 ## Overview
